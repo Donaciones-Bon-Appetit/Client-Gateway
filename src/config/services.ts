@@ -1,0 +1,3 @@
+export const POSTS_SERVICE = 'POSTS_SERVICE';
+
+export const DETAILS_SERVICE = 'DETAILS_SERVICE';
